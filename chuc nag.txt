@@ -1,0 +1,7 @@
+user:
+-CRUD (chỉ được với bài viết của mình)
+-Like, comment
+-comment trong comment(chỉ cần 2 cấp)
+-tạo bài viết phải có ảnh
+-Sửa comment của mình
+
